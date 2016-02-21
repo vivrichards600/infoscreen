@@ -11,4 +11,5 @@ New slides and messages are automatically obtained every 60 seconds.
 ## Work in progress
 This is just a proof of concept for information screens to present to my director at work, there may be security issues, bugs etc...
 
+This software has been hacked together over a weekend to get it in to a working-ish state, it does need some craftsmanship applied - perhaps fork and submit some pull requests if your interested :) ?
 
