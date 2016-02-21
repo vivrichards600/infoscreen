@@ -1,6 +1,8 @@
 # Info screen
 Free digital signage software. This project will allow you to register an account, login, edit your own account, create new users, manage slides and messages to be displayed on the info screen. 
 
+![Alt text](https://pbs.twimg.com/media/CbIHQBFXIAI1Vk6.jpg "Screen shot of info screen")
+
 New slides and messages are automatically obtained every 60 seconds.
 
 ## Getting up and running
