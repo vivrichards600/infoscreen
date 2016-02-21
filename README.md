@@ -1,9 +1,9 @@
 # Info screen
-Free digital signage software. This project will allow you to register an account, login, edit your own account, create new users, manage slides and messages to be displayed on the info screen. 
+Free digital signage software. Display information and push notifications/messages to screens around your office to kee employees engaged and in the loop about what is going on.
 
 ![Alt text](https://pbs.twimg.com/media/CbIHQBFXIAI1Vk6.jpg "Screen shot of info screen")
 
-New slides and messages are automatically obtained every 60 seconds.
+This project will allow you to register an account, login, edit your own account, create new users, manage slides and messages to be displayed on the info screen. New slides and messages are automatically obtained every 60 seconds.
 
 ## Getting up and running
 1. Run database.sql to setup database, tables and dummy data
