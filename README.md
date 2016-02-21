@@ -11,7 +11,7 @@ This project will allow you to register an account, login, edit your own account
 3. Login using username admin@unit4.com and password abcdef
 
 ## Work in progress
-This is just a proof of concept for information screens to present to my director at work, there may be security issues, bugs etc...
+This is just a proof of concept of an information screen to pitch at work, there may be security issues, bugs etc...
 
 This software has been hacked together over a weekend to get it in to a working-ish state, it does need some craftsmanship applied - perhaps fork and submit some pull requests if your interested :) ?
 
