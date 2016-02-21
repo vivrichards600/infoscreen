@@ -1,5 +1,5 @@
 # Info screen
-Free digital signage software. Display information and push notifications/messages to screens around your office to kee employees engaged and in the loop about what is going on.
+Free digital signage software. Display information and push notifications/messages to screens around your office to keep employees engaged and in the loop about what is going on.
 
 ![Alt text](https://pbs.twimg.com/media/CbIHQBFXIAI1Vk6.jpg "Screen shot of info screen")
 
